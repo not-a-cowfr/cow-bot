@@ -1,5 +1,5 @@
 <h1 align="center">
-Cow bot
+cow bot
 </h1>
 
 Discord bot made for different miscellaneous skyblock utilities
