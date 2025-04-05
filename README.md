@@ -35,6 +35,7 @@ Check out the [Contributing guide](/CONTRIBUTING.md) for more info on how get th
     - [ ] Add a command to view the highest collection/skill gain of tracked players
 - [ ] Add total hours and average uptime to `/uptime`
 - [ ] Add graph to `/uptime`
+- [ ] In `/uptime` first send the embed with last saved values form db, and then update it right after with the latest values from api so taht its both a very quick response and also accurate
 
 <h4 align="center">
     Bug fixes
